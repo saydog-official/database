@@ -1,1 +1,2 @@
-# database
+# Database
+Database for saydog framework
